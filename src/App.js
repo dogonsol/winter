@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React, {useState,useEffect} from 'react';
 import smallDog from './assets/smalldog.png';
@@ -27,37 +26,37 @@ function App() {
       <div className="main">
         <div className="runningDog">
         <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog2" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog3" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog4" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog5" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog6" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog7" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog8" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog9" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog0" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog11" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog12" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog13" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog14" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog15" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog16" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog17" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog18" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog19" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog20" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog21" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog22" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog23" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog24" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog25" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog26" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog27" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog28" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog29" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog30" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog31" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog32" className="smallDog" src={smallDog}/></div>
         </div>
         <div className="section">
           <h1 className="dogHeading">
@@ -89,38 +88,38 @@ function App() {
           </div>
         </div>
         <div className="runningDog">
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
-        <div className="imgBlock"><img className="img" alt="dog" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog33" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog34" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog35" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog36" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog37" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog38" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog39" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog40" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog41" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog42" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog43" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog44" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog45" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog46" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog47" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog48" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog49" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog50" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog51" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog52" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog53" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog54" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog55" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog56" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog57" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog58" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog59" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog60" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog61" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog62" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog63" className="smallDog" src={smallDog}/></div>
+        <div className="imgBlock"><img className="img" alt="dog64" className="smallDog" src={smallDog}/></div>
         </div>
       </div>
     </div>
