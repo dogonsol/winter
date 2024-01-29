@@ -9,7 +9,7 @@ const Loader = ({ loading, progress }) => {
     <div className={`loader-overlay ${loading ? '' : 'hidden'}`}>
         <div className="aligner">
         <img className="loader" alt="loader" src={loader}/>
-        <h1 className="hey">HEY...</h1>
+        <h1 className="hey">AYO...</h1>
       </div>
     </div>
   );

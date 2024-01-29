@@ -7,7 +7,7 @@ import twitter from './assets/twitter.svg';
 import Loader from './components/Lodaer';
 
 function App() {
-  const ticker = "$GTFOOH";
+  const ticker = "$GTFODOG";
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -60,14 +60,14 @@ function App() {
         </div>
         <div className="section">
           <h1 className="dogHeading">
-            Aegedafakaatahere
+            AYO GET THE FUCK OUT OF HERE
           </h1>
           <video className="video" width="250" height="300" controls autoPlay loop>
             <source className="actualVideo" src={video} type="video/mp4"/>
           Your browser does not support the video tag.
           </video>
           <div className="socialBlock">
-            <a href="https://google.com/asd"><img alt="telegram" className="telegram social" src={telegram}/></a>
+            <a href="https://t.me/gtfodoog"><img alt="telegram" className="telegram social" src={telegram}/></a>
             <a href="https://twitter.com/gedafakaatahere"><img alt="twitter" className="twitter social" src={twitter}/></a>
           </div>
           <a href="https://raydium.io/"><button className="button">
